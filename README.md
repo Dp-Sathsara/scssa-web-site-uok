@@ -1,2 +1,4 @@
-# scssa-web-site-uok
-Statistics &amp; Computer Science Student's Association Web Site Launching - 2025
+#To LocalHost
+
+1. Run `npm install`
+2. Run `npm run dev`
